@@ -160,6 +160,11 @@ header li a {
     margin-left: 5%;
 }
 
+#reasonTitleButtonRight {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
 .reasonLogosRight {
     margin-top: 5%;
     margin-left: 85%;
