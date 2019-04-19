@@ -64,8 +64,8 @@ header li a {
 
 .factLine {
     height: 6px;
-    color: greenyellow;
-    background-color: greenyellow;
+    color: #bbc437;
+    background-color: #bbc437;
     border: none;
     max-width: 25%;
     text-align: left;
@@ -82,6 +82,7 @@ header li a {
 
 .factNum {
     font-size: 60px;
+    color: #cc3e16;
 }
 
 
