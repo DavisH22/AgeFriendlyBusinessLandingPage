@@ -55,9 +55,17 @@ header li a {
 #mainHeader {
     color: white;
     padding-right: 10%;
-    margin-top: 25%;
+    margin-top: 22%;
     margin-left: 10%;
     margin-right: 25%;
+}
+
+.mainHeaderBtn {
+    width: 250px;
+    height: 50px;
+    border-radius: 2px;
+    background-color: #ffffff;
+    font-size: 22px
 }
 
 /* fact content */
@@ -238,9 +246,25 @@ header li a {
 
 /* footer */
 footer {
-    padding-top: 10%;
-    padding-bottom: 2%;
-    text-align: center;
+    height: 300px;
     background-color: black;
     color: white;
+    padding-top: 30px;
+}
+
+.footerLinks {
+    border-left: 1px solid white;
+}
+
+ul {
+    list-style-type: none;
+    line-height: 2.5em;
+}
+
+.footerText {
+    margin-left: 10%;
+}
+
+#listHeader {
+    font-size: 1.4vw;
 }
