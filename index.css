@@ -3,7 +3,18 @@ body {
     height: 100%;
     margin-top: 0px;
     margin-left: 0px;
-    background-color: #f5f5f5;
+    background-color: #f8f8f8;
+}
+
+.paddingSection {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.sectionWhite {
+    background-color: #ffffff;
 }
 
 /* navbar content */
@@ -50,6 +61,7 @@ header li a {
     background-repeat: no-repeat;
     height: 600px;
     background-size:100% 100%;
+    margin-bottom: 0;
 }
 
 #mainHeader {
@@ -81,13 +93,6 @@ header li a {
   
 }
 
-#facts {
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-top: 3%;
-    margin-bottom: 3%;
-}
-
 .factNum {
     font-size: 60px;
     color: #cc3e16;
@@ -107,10 +112,6 @@ header li a {
 /* mission content */
 
 .mission {
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-top: 3%;
-    margin-bottom: 3%;
     display: inline-block;
     position: relative;
 }
@@ -147,14 +148,6 @@ header li a {
 
 #reasonRow {
     margin-top: 3%;
-}
-
-.reasonSection {
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-top: 5%;
-    margin-bottom: 5%;
-    
 }
 
 .reasons {
@@ -197,7 +190,7 @@ header li a {
 }
 /* sticker context */
 
-.sticker {
+#sticker {
     margin-left: 5%;
     margin-right: 5%;
     margin-top: 5%;
@@ -220,13 +213,6 @@ header li a {
     text-align: left;
     margin-left: 0;
   
-}
-
-.tests {
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-top: 5%;
-    margin-bottom: 5%;
 }
 
 .testBoxes {
