@@ -166,10 +166,6 @@ header li a {
     margin-bottom: 5%;
 }
 
-.reasonLogosLeft {
-    margin-top: 5%;
-    margin-left: 5%;
-}
 
 #reasonTitleButtonRight {
     margin-top: 5%;
@@ -208,7 +204,7 @@ header li a {
     color: darkblue;
     background-color: darkblue;
     border: none;
-    max-width: 43%;
+    max-width: 33%;
     text-align: left;
     margin-left: 0;
   
