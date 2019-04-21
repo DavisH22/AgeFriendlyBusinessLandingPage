@@ -4,6 +4,7 @@ body {
     margin-top: 0px;
     margin-left: 0px;
     background-color: #f8f8f8;
+    font-family: 'Fjalla One';
 }
 
 .paddingSection {
@@ -106,6 +107,7 @@ header li a {
 
 .textParagraphs {
     font-size: 1.3vw;
+    font-family: 'DDINRegular'; 
 }
 
 
