@@ -78,7 +78,9 @@ header li a {
     height: 50px;
     border-radius: 2px;
     background-color: #ffffff;
-    font-size: 22px
+    font-size: 22px;
+    border: none;
+    color: #155777;
 }
 
 /* fact content */
@@ -201,8 +203,8 @@ header li a {
 
 .testLine {
     height: 6px;
-    color: darkblue;
-    background-color: darkblue;
+    color: #155777;
+    background-color: #155777;
     border: none;
     max-width: 33%;
     text-align: left;
