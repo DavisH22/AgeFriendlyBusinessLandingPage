@@ -23,6 +23,7 @@ header {
     background-color: white;
     height: 80px;
     z-index: 1;
+    position: fixed;
 }
 
 header * {
