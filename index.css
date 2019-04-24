@@ -18,6 +18,10 @@ body {
     background-color: #ffffff;
 }
 
+.svgButton {
+    cursor:pointer;
+}
+
 /* navbar content */
 header {
     background-color: white;
