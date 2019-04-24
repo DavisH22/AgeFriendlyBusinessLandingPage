@@ -80,7 +80,11 @@ header li a {
     margin-top: 22%;
     margin-left: 10%;
     margin-right: 25%;
-    line-height: 2;
+    line-height: 1.4;
+}
+
+#mainHeader > div > h1 {
+    line-height: 1.3;
 }
 
 .mainHeaderBtn {
