@@ -118,9 +118,10 @@ header li a {
 
 /* reason 1 seciton */
 
-.reasonBlocks {
+.blocks {
     display: inline-block;
     margin-left: 175px;
+    margin-bottom: 50px;
 }
 
 .logoSize {
@@ -131,12 +132,29 @@ header li a {
 }
 
 .rightLogo1 {
-    margin-top: 35%;
-    
+    margin-top: 35%;   
 }
 
 .leftLogo2 {
-    margin-top: 15%;   
+    margin-top: 5%;   
+}
+
+.rightLogo3 {
+    margin-top: 5%;   
+}
+
+.leftLogo4 {
+    margin-top: 5%;   
+}
+
+.rightLogo5 {
+    margin-top: 5%;   
+}
+
+/* download Div */
+
+.downloadDiv {
+    margin-left: 1705px;
 }
 
 
