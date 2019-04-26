@@ -241,8 +241,14 @@ header li a {
     height: 100%;
 }
 
-.testHeader {
-    border-bottom: 1px solid black;
+.testTextHeaders {
+    font-size: 1.5vw;
+    font-weight: 400;
+}
+
+.testHeaderLine {
+    color: #E1E1E1;
+    background-color: #E1E1E1;
 }
 
 

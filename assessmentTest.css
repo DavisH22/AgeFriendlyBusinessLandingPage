@@ -125,6 +125,16 @@ header li a {
   
 }
 
+.testTextHeaders {
+    font-size: 1.5vw;
+    font-weight: 400;
+}
+
+.testHeaderLine {
+    color: #E1E1E1;
+    background-color: #E1E1E1;
+}
+
 .testBoxes {
     min-width: 405px;
     min-height: 375px;
