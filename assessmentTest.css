@@ -89,8 +89,8 @@ header li a {
     display: inline-block;
     margin-top: 200px;
     margin-bottom: 75px;
-    margin-left: 175px;
-    margin-right: 175px;
+    margin-left: 125px;
+    margin-right: 125px;
 }
 
 .missionImage {
@@ -109,6 +109,8 @@ header li a {
 /* test selection content */
 
 .testSelection {
+    margin-left: 125px;
+    margin-right: 125px;
     margin-bottom: 75px;
 }
 
@@ -133,9 +135,6 @@ header li a {
     height: 100%;
 }
 
-.testHeader {
-    border-bottom: 1px solid black;
-}
 
 /* footer */
 footer {

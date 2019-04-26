@@ -82,8 +82,8 @@ header li a {
     display: inline-block;
     margin-top: 200px;
     margin-bottom: 150px;
-    margin-left: 175px;
-    margin-right: 175px;
+    margin-left: 125px;
+    margin-right: 125px;
 }
 
 .missionImage {
@@ -104,8 +104,8 @@ header li a {
 .description {
     display: inline-block;
     margin-bottom: 150px;
-    margin-left: 175px;
-    margin-right: 175px;
+    margin-left: 125px;
+    margin-right: 125px;
 }
 
 .descHeaders {
@@ -118,14 +118,15 @@ header li a {
 .fiveReason {
     display: inline-block;
     margin-bottom: 50px;
-    margin-left: 175px;
+    margin-left: 125px;
 }
 
 /* reason 1 seciton */
 
 .blocks {
     display: inline-block;
-    margin-left: 175px;
+    margin-right: 125px;
+    margin-left: 125px;
     margin-bottom: 75px;
 }
 
